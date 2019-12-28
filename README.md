@@ -204,7 +204,7 @@ Congratulations! If you made it this far then you have successfully installed Ma
 1. Open Safari and search for "Clover Configurator".
 2. Download it from "Mackie100Projects" and press "Allow" to allow it to download.
 3. Open the Clover Application you just downloaded.
-  * If it does not allow you to open it or gives you an error go to System Preferences > Security and Privacy > "Open Anyway" (bottom right of the window) > "Open"
+   * If it does not allow you to open it or gives you an error go to System Preferences > Security and Privacy > "Open Anyway" (bottom right of the window) > "Open"
 4. With Clover opened, select "Mount EFI" on the left-hand side, select your drive (with the name you gave it), and select "Mount Partition".
 5. "Open Partition" and open the "CLOVER" disk on the right-hand side of the desktop.
 6. Drag and drop the "EFI" folder from the "CLOVER" disk to your drive partition you just opened.
