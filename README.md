@@ -52,6 +52,7 @@ KEXTs: https://onedrive.live.com/?cid=fe4038da929bfb23&id=FE4038DA929BFB23%21455
   * fozteh
   * Brass Ensemble
   * Villegasdv
+  * pulsar7377
 * Other
   * Every link within [Resources](#resources), without your tools and guides this would not be possible!
 
@@ -153,8 +154,9 @@ KEXTs: https://onedrive.live.com/?cid=fe4038da929bfb23&id=FE4038DA929BFB23%21455
   * You can also change the boot priorities within the BIOS if you cannot find your boot menu button.
 * Select the USB flash drive as the designated boot device.
   * It should say "UEFI" and then the name of the flash drive.
-* It is crucial you select "2" and then "ENTER" rather quickly when the options show up. This will select to install MacOS. 
+  * It is crucial you select "2" and then "ENTER" rather quickly when the options show up. This will select to install MacOS. 
   * Option 1 is to bootcamp Windows. If this gets selected it will create a copy of your Windows drive which may prevent you from getting into your bios. This can be fixed by clearing your CMOS (check your Motherboard manual on how to do so!).
+    * This can be avoided by changing "Timeout" value from 5 to 0 from within your config.plist!
 * If you have the same components as me and copy my EFI folder, you will see some errors. Disregard as they do not affect the system.
 * If you have a different system or require different arguments, drivers, ACPIs, you may come across some errors and will have to do some trouble shooting.
   * Common errors for similar systems include "Prelink Injection... Invalid Parameter", "Kernel Patcher Result... Not found", "AMF: Only X/Y Slides are usable"
