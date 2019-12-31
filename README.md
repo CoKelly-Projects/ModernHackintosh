@@ -280,6 +280,7 @@ Congratulations! If you made it this far then you have successfully installed Ma
     * Ethernet
     * Audio
     * Screen Saver
+    * Sleep
 
   * What Does Not Work (Note: My Motherboard does not have WiFi or Bluetooth included, nor do I have a WiFi or Bluetooth card / adapter)
     * Bluetooth
