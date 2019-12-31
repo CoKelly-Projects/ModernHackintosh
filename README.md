@@ -2,7 +2,7 @@
 
 ## DISCLAIMER
 
-I am not responsible for any damage caused to your components, data loss, or anything else that may happen throughout this process. Follow this guide at your own risk! The steps listed below worked for my components. You will find my components listed under the [My Build Components](#my-build-components) section. There is no guarantee this guide will work for your components. You are responsible for reading about and knowing the guides, documentation, and programs listed below. You may need to download additional programs and seek other resources than what is listed. The steps within this guide are for AMD based components, however there are links within [Resources](#resources) that have steps for Intel and NVIDIA based components. Without further ado, good luck and ask questions!
+This is a guide for Windows 10 based systems. I am not responsible for any damage caused to your components, data loss, or anything else that may happen throughout this process. Follow this guide at your own risk! The steps listed below worked for my components. You will find my components listed under the [My Build Components](#my-build-components) section. There is no guarantee this guide will work for your components. You are responsible for reading about and knowing the guides, documentation, and programs listed below. You may need to download additional programs and seek other resources than what is listed. The steps within this guide are for AMD based components, however there are links within [Resources](#resources) that have steps for Intel and NVIDIA based components. Without further ado, good luck and ask questions!
 
 ## Table of Contents
 
@@ -46,6 +46,7 @@ KEXTs: https://onedrive.live.com/?cid=fe4038da929bfb23&id=FE4038DA929BFB23%21455
   * r/SlackyHacky
   * r/dj_chapz
   * r/Shaneee92
+  * r/johnklos
 * AMD-OSX Forum
   * QuickTime
   * fozteh
@@ -251,12 +252,22 @@ Congratulations! If you made it this far then you have successfully installed Ma
 
 * Current Benchmarks at the time are as follows: (Note: these have not been optimized to their fullest potential)
   * Geekbench 5.0.4
-    * Single-Core: 1301
-    * Multi-Core Score: 9081
-    * Metal Score: 37633
+    * Single-Core: ~1301
+    * Multi-Core Score: ~9081
+    * Metal Score: ~37633
   * Geekbench 4.4.2
-    * Single-Core: 5952
-    * Multi-Core Score: 39047
+    * Single-Core: ~5952
+    * Multi-Core Score: ~39047
+  * Cinebench R20
+    * Single Core:~496
+    * Multi Core: ~4817
+  * NovaBench
+    * Novabench Score: ~2550
+    * CPU Score: ~1548
+    * RAM Score - 32gb 3200Mhz: ~371
+    * Disk Score: ~132
+    * GPU Score: ~499
+  
 
 ## Footnotes
 
